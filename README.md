@@ -1,4 +1,4 @@
-# Customer-Sentiment-Classification-at-Disneyland
+# Customer Sentiment Classification at Disneyland
 This project is done by using Google Colaboratory and tools in NLTK libraries (Natural Language Toolkit): VADER (Valence Aware Dictionary and Sentiment Reasoner) and textBlob.
 
 Download the dataset here: https://www.kaggle.com/datasets/arushchillar/disneyland-reviews
